@@ -1,3 +1,6 @@
+# add
+  把spring-boot-jpa-thymeleaf-curd 加上redis缓存
+
 # Spring Boot Examples
 
 Spring Boot 使用的各种示例，以最简单、最实用为标准
